@@ -1,4 +1,3 @@
-
 function(get_project_files FILES)
     list(APPEND FILES_LIST "")
 
